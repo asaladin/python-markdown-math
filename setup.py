@@ -21,6 +21,7 @@ setup(name='python-markdown-math',
       author='Dmitry Shachnev',
       author_email='mitya57@gmail.com',
       version='0.1',
+      install_requires=['markdown'],
       url='https://github.com/mitya57/python-markdown-math',
       py_modules=['mdx_math'],
       license='BSD')
